@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Zaki Azhar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Development+Enthutiast;Mobile+App+Developer;Frontend+Developer;GDGoC+UGM+Hacker;OmahTI+MobApps+Junior+Staff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Development+Enthutiast;AIML+Development"></a>
 </p>
 
 
@@ -81,7 +81,7 @@
   &emsp;
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=plastic&logo=vercel&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
 </p>
 
