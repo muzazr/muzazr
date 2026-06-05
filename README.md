@@ -16,7 +16,7 @@
 - ⚙️ I am happy to learning about `Software Development`.
 - 👥 I am currently part of `Google Developer Group on Campus at UGM as a Hacker Frontend`.
 - 💭 I’m currently open for a new `project to collaboration`.
-- 💥 You can visit [my personal website](https://cutt.ly/xxxx).
+- 💥 You can visit [my personal website](https://muzazr.dev).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
